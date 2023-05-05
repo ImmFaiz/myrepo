@@ -1,5 +1,5 @@
 <?php
 
 function __construct() {
-	echo "hello"
+	echo "welcome"
 }
